@@ -1,0 +1,23 @@
+.nav-bar {
+  background-color: teal;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.nav-bar ul {
+  display: flex;
+  gap: 15px;
+  margin: 0;
+}
+
+.nav-bar ul li {
+  list-style-type: none;
+}
+.nav-bar ul li a{
+  color: white;
+}
+
+.app-body-wrapper{
+  padding: 20px 40px;
+}
