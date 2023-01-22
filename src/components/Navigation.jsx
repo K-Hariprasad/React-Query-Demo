@@ -7,7 +7,7 @@ function Navigation() {
       <span> R & M</span>
       <ul>
         <li>
-          <Link to="/">Home</Link>
+          <Link to="/">Notes</Link>
         </li>
         <li>
           <Link to="/characters">Characters</Link>

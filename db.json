@@ -1,5 +1,44 @@
 {
-  "characters":[
+  "notes": [
+    {
+      "id": "bd6a03a6-3888-44d5-aef2-e208c11ef1f5",
+      "text": "sample note"
+    },
+    {
+      "queryKey": [
+        "notes"
+      ],
+      "signal": {},
+      "id": "YB3IZ3e"
+    },
+    {
+      "queryKey": [
+        "notes"
+      ],
+      "signal": {},
+      "id": "FuXDe5V"
+    },
+    {
+      "queryKey": [
+        "notes"
+      ],
+      "signal": {},
+      "id": "pMNX6dp"
+    },
+    {
+      "id": "94f410a6-17bf-4118-9cab-7cfd8b981274",
+      "text": "sample note 2"
+    },
+    {
+      "id": "fda4dd27-f8d2-4d3e-be47-718a7669ee1f",
+      "text": "sample 3"
+    },
+    {
+      "id": "daef7621-50b6-4672-951d-07468a49dd00",
+      "text": "new sample"
+    }
+  ],
+  "characters": [
     {
       "id": 1,
       "name": "Rick Sanchez",

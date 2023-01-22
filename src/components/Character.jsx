@@ -1,6 +1,7 @@
 import axios from "axios";
 import React from "react";
 import { useQuery } from "react-query";
+import { serviceBaseUrl } from "../utils/constants";
 import { useParams } from "react-router-dom";
 
 function Character() {
@@ -8,7 +9,7 @@ function Character() {
   const characterId = params.id;
   const fetchCharacter = ({ queryKey }) => {
     const id = queryKey[1];
-    return axios.get(`http://localhost:5000/characters/${id}`);
+    return axios.get(`${serviceBaseUrl}/characters/${id}`);
   };
   const { isLoading, data: characterData, isError, error } = useQuery(
     ["character", characterId],

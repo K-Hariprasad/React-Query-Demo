@@ -2,10 +2,11 @@ import axios from "axios";
 import React from "react";
 import { useQuery } from "react-query";
 import { useNavigate } from "react-router-dom";
+import { serviceBaseUrl } from "../utils/constants";
 
 function RQEmployee() {
   const { isLoading, data, isError, error } = useQuery("characters", () => {
-    return axios.get("http://localhost:5000/characters");
+    return axios.get(`${serviceBaseUrl}/characters`);
   });
   const navigate = useNavigate();
   if (isLoading) {
