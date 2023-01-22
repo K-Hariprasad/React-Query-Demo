@@ -3,58 +3,58 @@
     {
       "id": 1,
       "name": "Prateek",
-      "Designation": "Manager",
-      "Age": 45,
-      "Salary": 3500000
+      "designation": "Manager",
+      "age": 45,
+      "salary": 3500000
     },
     {
       "id": 2,
       "name": "Jayant",
-      "Designation": "Devops",
-      "Age": 35,
-      "Salary": 2500000
+      "designation": "Devops",
+      "age": 35,
+      "salary": 2500000
     },
     {
       "id": 3,
       "name": "Reena",
-      "Designation": "Backend Associate",
-      "Age": 25,
-      "Salary": 1400000
+      "designation": "Backend Associate",
+      "age": 25,
+      "salary": 1400000
     },
     {
       "id": 4,
       "name": "Dane",
-      "Designation": "UI Associate",
-      "Age": 26,
-      "Salary": 1800000
+      "designation": "UI Associate",
+      "age": 26,
+      "salary": 1800000
     },
     {
       "id": 5,
       "name": "Sarah",
-      "Designation": "Manager",
-      "Age": 40,
-      "Salary": 3000000
+      "designation": "Manager",
+      "age": 40,
+      "salary": 3000000
     },
     {
       "id": 6,
       "name": "George",
-      "Designation": "UI Lead",
-      "Age": 30,
-      "Salary": 2000000
+      "designation": "UI Lead",
+      "age": 30,
+      "salary": 2000000
     },
     {
       "id": 7,
       "name": "Ravi",
-      "Designation": "QA Lead",
-      "Age": 36,
-      "Salary": 2400000
+      "designation": "QA Lead",
+      "age": 36,
+      "salary": 2400000
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "Peter",
-      "Designation": "Backen Lead",
-      "Age": 36,
-      "Salary": 2700000
+      "designation": "Backen Lead",
+      "age": 36,
+      "salary": 2700000
     }
   ]
 }

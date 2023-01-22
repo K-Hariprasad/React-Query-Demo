@@ -14,10 +14,25 @@
 .nav-bar ul li {
   list-style-type: none;
 }
-.nav-bar ul li a{
+
+.nav-bar ul li a {
   color: white;
 }
 
-.app-body-wrapper{
+.app-body-wrapper {
   padding: 20px 40px;
+}
+
+.employee-card {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  border-bottom: 1px solid #fff;
+}
+.employee-card-name {
+  width: 100px;
+}
+.employee-card-designation {
+  font-size: 10px;
+  color: #ed4545;
 }
